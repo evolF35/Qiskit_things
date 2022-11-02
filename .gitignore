@@ -17,5 +17,3 @@ src
 CMakeLists.txt
 MANIFEST.in
 pyproject.toml
-
-.env
