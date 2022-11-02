@@ -8,3 +8,12 @@
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+
+
+cmake
+contrib
+share
+src
+CMakeLists.txt
+MANIFEST.in
+pyproject.toml
