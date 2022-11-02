@@ -1,0 +1,19 @@
+Introduction To Quantum Computing 
+-----------------------------------------------------------------
+information and algorithms
+computers carry out instructions on some info to give new info
+
+algorithms, classed by how they grow with size of input
+
+exponential time, running time grows exponentially with length
+of the input
+
+integer factorisation
+
+2 factors that limit size of problems QC can solve:
+data --> qubits, error rate --> delicate computers (noise)
+
+estimate factoring of 617-digit RSA in under a day: 20 million
+noisy qubits
+
+
