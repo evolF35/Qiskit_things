@@ -16,4 +16,6 @@ data --> qubits, error rate --> delicate computers (noise)
 estimate factoring of 617-digit RSA in under a day: 20 million
 noisy qubits
 
+//side , split the problem in 2
+
 
