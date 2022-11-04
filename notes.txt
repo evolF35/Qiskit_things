@@ -27,3 +27,21 @@ whether two bits are different or not: XOR gate
 controlled by CNOT , .cx
 
 Toffoli gate: AND gate, .ccx
+
+-----------------------------------------------------------------
+H gates, probablities
+
+qubits can be described using probability 
+amplitudes 
+they can cancel each other out (interference)
+
+simulating quantum uses exponential resources with # of qubits
+
+explain behavior qubit with vectors of amplitudes
+
+
+-----------------------------------------------------------------
+Entanglement
+
+--> we find that entanglement is a necessary ingredient of any 
+quantum advantage
