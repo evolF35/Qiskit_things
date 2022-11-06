@@ -45,3 +45,7 @@ Entanglement
 
 --> we find that entanglement is a necessary ingredient of any 
 quantum advantage
+
+
+-----------------------------------------------------------------
+Shor's Algorithm = Quantum Phase Estimation
